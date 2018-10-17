@@ -34,7 +34,7 @@ nav li {
   border-radius: 4px;
 }
 
-nav li:hover {
+nav a:hover {
   background-color: #f33;
 }
 
@@ -42,6 +42,6 @@ nav a {
   color: #fff;
 }
 
- li {
-   list-style-type: inherit;
- }
+li {
+  list-style-type: inherit;
+}
