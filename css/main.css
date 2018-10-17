@@ -41,7 +41,7 @@ nav li {
   list-style-type: inherit;
 }
 
-nav li:hover {
+nav a:hover {
   background-color: #f33;
 }
 
