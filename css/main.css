@@ -1,9 +1,7 @@
 html {
   box-sizing: border-box;
-  font-family: Bevan, sans-serif;
   line-height: 1.5;
   background-color: #dbd6cf;
-  text-decoration: none;
 }
 
 *, *::before, *::after {
@@ -23,17 +21,23 @@ header {
 }
 
 h1 {
-
+font-family: Bevan, sans-serif;
 }
 nav li {
+
   display: inline-block;
   padding: .5em .75em;
   margin-right: .3em;
   margin-left: .3em;
   background-color: #713837;
   border-radius: 4px;
+  font-family: Bevan, sans-serif;
 }
 
 nav li:hover {
   background-color: #f33;
+}
+
+nav a {
+  color: #fff;
 }
