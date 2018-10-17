@@ -1,0 +1,40 @@
+html {
+  box-sizing: border-box;
+  font-family: Bevan, sans-serif;
+  line-height: 1.5;
+  background-color: #dbd6cf;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  color: #fff;
+  background-color: #595652;
+}
+
+header {
+  background-color: #79756f;
+  text-align: center;
+}
+
+h1 {
+  background-color: #79756f;
+  margin-top: .3em;
+}
+nav ul {
+  background-color: #79756f;
+}
+
+nav li {
+  display: inline-block;
+  padding: .6em;
+  margin: .3em;
+  background-color: #713837;
+  border-radius: 4px;
+}
+
+nav li:hover {
+  background-color: #f33;
+}
