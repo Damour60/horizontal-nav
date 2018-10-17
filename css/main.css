@@ -11,25 +11,19 @@ html {
 
 body {
   color: #fff;
-  background-color: #595652;
+  margin: 0;
 }
 
 header {
-  background-color: #79756f;
   text-align: center;
-}
-
-h1 {
   background-color: #79756f;
-  margin-top: .3em;
-}
-nav ul {
-  background-color: #79756f;
+  border-top: 5px solid #595652;
+  border-bottom: 5px solid #595652;
 }
 
 nav li {
   display: inline-block;
-  padding: .6em;
+  padding: .5em .75em;
   margin: .3em;
   background-color: #713837;
   border-radius: 4px;
