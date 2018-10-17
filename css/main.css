@@ -33,6 +33,7 @@ nav li {
   margin-left: .3em;
   background-color: #713837;
   border-radius: 4px;
+  list-style-type: inherit;
 }
 
 nav a:hover {
@@ -41,8 +42,4 @@ nav a:hover {
 
 nav a {
   color: #fff;
-}
-
-li {
-  list-style-type: inherit;
 }
